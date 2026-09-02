@@ -2,7 +2,7 @@
 
 ## Overview
 
-An SQL project analyzing e-commerce data to understand **sales, customers, products, employees, orders, and discounts**.
+An SQL project analyzing e-commerce data to understand **sales, customers, products, employees, orders and discounts**.
 
 The goal was to turn raw sales data into simple business insights that can support better decisions.
 
